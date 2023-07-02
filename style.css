@@ -1,0 +1,11 @@
+.container {
+    color: red;
+}
+
+.recipe-card {
+    text-align: center;
+}
+.ingredients{
+    border: 2px solid darkred;
+
+}
