@@ -8,10 +8,13 @@
     margin:300px;
 }
 .ingredients{
-    
-
+    border: 2px solid darkred;
+    margin:50px;
 }
 .listed-ingredients {
     list-style-position: inside;
-   padding: 5px;
+    list-style: none;
+    padding: 5px;
+   
+
 }
