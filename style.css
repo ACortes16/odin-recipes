@@ -6,6 +6,7 @@
     text-align: center;
     border: 2px solid darkred;
     margin:300px;
+    padding: 50px;
 }
 .ingredients{
     border: 2px solid darkred;
@@ -14,7 +15,9 @@
 .listed-ingredients {
     list-style-position: inside;
     list-style: none;
+    width: 200px;
     padding: 5px;
+    margin: 0 auto;
    
 
 }
